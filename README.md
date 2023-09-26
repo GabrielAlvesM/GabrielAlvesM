@@ -19,7 +19,6 @@
 <a href="https://fb.com/https://www.facebook.com/gabriel.alvesmatosdearaujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/gabriel.alvesmatosdearaujo" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/alvesmgabriel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alvesmgabriel/" height="30" width="40" /></a>
 <a href="https://discord.gg/DarkElphes#3548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DarkElphes#3548" height="30" width="40" /></a>
-<a href="/https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/rss.svg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/rss.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
