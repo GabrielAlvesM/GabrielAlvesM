@@ -2,6 +2,7 @@
 <h3 align="center">I'm a Front end student in Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielalvesm&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielalvesm" /> </p>
+<img aling="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 - 🌱 I’m currently learning **JavaScript and Angular**
 
