@@ -4,13 +4,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielalvesm&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielalvesm" /> </p>
 <img aling="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
-- 🌱 I’m currently learning **JavaScript and Angular**
+🎓 Estudante de Ciências da Computação | 📊 Aspirante a Cientista de Dados
 
-- 💬 Ask me about **Technology and music**
+Atualmente cursando o 5º semestre de Ciências da Computação e me especializando em Análise de Dados pela Udemy. Tenho interesse em transformar dados em decisões através de análise estatística, programação e visualização de informações.
 
-- 📫 How to reach me **gabrielalvesmatosdearaujo77@gmail.com**
+💻 Tecnologias que estou estudando:
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL / NoSQL
+- R
+- Git e GitHub
+- Power BI
+- Estatística aplicada
 
-- ⚡ Fun fact **I love philosophy, history, and music, but I choice study programming**
+🚀 Estou desenvolvendo projetos próprios com dados públicos e de cursos para aplicar e demonstrar meus conhecimentos. 
+
+📚 Sempre aprendendo algo novo e buscando minha primeira oportunidade na área de dados!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
