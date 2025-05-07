@@ -4,21 +4,30 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielalvesm&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielalvesm" /> </p>
 <img aling="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
-🎓 Estudante de Ciências da Computação | 📊 Aspirante a Cientista de Dados
+# 👋 Hi, I'm Gabriel Araujo
 
-Atualmente cursando o 5º semestre de Ciências da Computação e me especializando em Análise de Dados pela Udemy. Tenho interesse em transformar dados em decisões através de análise estatística, programação e visualização de informações.
+🎓 Computer Science Student | 📊 Aspiring Data Analyst
 
-💻 Tecnologias que estou estudando:
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- SQL / NoSQL
-- R
-- Git e GitHub
-- Power BI
-- Estatística aplicada
+I'm currently in my 5th semester of Computer Science and taking a Data Analysis specialization course on Udemy. I'm passionate about transforming data into meaningful insights using statistics, programming, and visualization tools.
 
-🚀 Estou desenvolvendo projetos próprios com dados públicos e de cursos para aplicar e demonstrar meus conhecimentos. 
+## 🛠 Technologies I'm working with:
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **SQL** / **NoSQL**
+- **R**
+- **Git & GitHub**
+- **Power BI**
+- **Applied Statistics**
 
-📚 Sempre aprendendo algo novo e buscando minha primeira oportunidade na área de dados!
+## 🚀 Projects in Progress:
+I’m currently building personal projects using public datasets to practice and showcase my data analysis skills.
+
+## 📚 Always Learning:
+I’m eager to learn more every day and looking for my first professional opportunity in the data field.
+
+## 📫 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/gabrielalvesm/)
+- [GitHub](https://github.com/GabrielAlvesM)
+"""
 
 
 <h3 align="left">Connect with me:</h3>
